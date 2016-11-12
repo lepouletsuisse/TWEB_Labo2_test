@@ -1,0 +1,9 @@
+{
+  "name": "tweb-labo2-test",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
